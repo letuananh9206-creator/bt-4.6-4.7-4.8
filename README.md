@@ -32,6 +32,7 @@ Bài4.7
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 ![Thực thi chức năng](./screenshots/execution_result4.7.png)
+![Thực thi chức năng](./screenshots/execution_result4.7(2).png)
 ![Thực thi chức năng](.screenshotsexecution_result4.7(3).png)
 ![Thực thi chức năng](.screenshotsexecution_result4.7(4).png)
 
