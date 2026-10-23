@@ -32,9 +32,9 @@ Bài4.7
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 ![Thực thi chức năng](./screenshots/execution_result4.7.png)
-![Thực thi chức năng](./screenshots/execution_result4.7(2).png)
-![Thực thi chức năng](.screenshot/execution_result4.7(3).png)
-![Thực thi chức năng](.screenshots/execution_result4.7(4).png)
+![Thực thi chức năng](./screenshots/execution_result4.72.png)
+![Thực thi chức năng](.screenshot/execution_result4.73.png)
+![Thực thi chức năng](.screenshots/execution_result4.74.png)
 ---
 Bài4.8
 ### 1. Ảnh màn hình Giao diện chính
